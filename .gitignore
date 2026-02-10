@@ -3,8 +3,7 @@
 *.import
 .export/
 
-# Editor specific
-.claude/
+# Editor specific (Claude configuration is included)
 
 # External repository reference (godot-mcp) is managed as git submodule
 
