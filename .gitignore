@@ -1,0 +1,35 @@
+# Godot specific
+.import/
+*.import
+.export/
+
+# Editor specific
+.claude/
+
+# External repository reference (godot-mcp) is managed as git submodule
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
